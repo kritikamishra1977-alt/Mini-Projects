@@ -2,7 +2,7 @@
 This repository contains a collection of my mini projects created for practice and learning programming concepts.
 ## Projects Included
 1. Quiz Game(C)
-2. 5. Student Database Management(SQL)
+2. Student Database Management(SQL)
 3. Hangman Game(Python)
 4. Random Password Generator
 6. Number Guessing Game
