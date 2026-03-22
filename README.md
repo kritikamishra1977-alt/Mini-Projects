@@ -6,6 +6,7 @@ This repository contains a collection of my mini projects created for practice a
 3. Hangman Game(Python)
 4. Random Password Generator
 6. Number Guessing Game
+7. Block game
 ## Technologies Used
 - C Programming
 -  Python
