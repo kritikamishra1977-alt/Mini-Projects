@@ -5,8 +5,7 @@ This repository contains a collection of my mini projects created for practice a
 2. Student Database Management (SQL)  
 3. Bollywood Guessing Game (Python)  
 4. Hangman Game (Python)  
-5. Quiz Game (C)  
-6. Random Password Generator (Python)
+5. Random Password Generator (Python)
 ## Technologies Used
 - C Programming
 -  Python
