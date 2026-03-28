@@ -1,12 +1,12 @@
 # Mini-Projects
 This repository contains a collection of my mini projects created for practice and learning programming concepts.
 ## Projects Included
-1. Quiz Game(C)
-2. Student Database Management(SQL)
-3. Hangman Game(Python)
-4. Random Password Generator
-6. Number Guessing Game
-7. Block game
+1. Block Game (Python)
+2. Student Database Management (SQL)  
+3. Bollywood Guessing Game (Python)  
+4. Hangman Game (Python)  
+5. Quiz Game (C)  
+6. Random Password Generator (Python)
 ## Technologies Used
 - C Programming
 -  Python
